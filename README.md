@@ -4,9 +4,10 @@ Tinava is a dark KDE Plasma theme setup with a unified visual style, built aroun
 
 ## What's Included
 
-- Plasma Style: `desktoptheme/tinava`
+- Plasma Style: `desktoptheme/tinava/`
 - KDE color scheme: `color-schemes/Tinava.colors`
 - Konsole color scheme: `konsole/Tinava.colorscheme`
+- Telegram Desktop theme: `tdesktop/`
 
 ## Installation
 
@@ -23,6 +24,12 @@ After installation, select each item manually in KDE:
 1. Plasma Style: `System Settings -> Colors & Themes -> Plasma Style -> Tinava`
 2. Colors: `System Settings -> Colors & Themes -> Colors -> Tinava`
 3. Konsole: `Settings -> Edit Current Profile -> Appearance -> Tinava`
+
+### Telegram Desktop
+
+Tinava also has a Telegram Desktop theme:
+
+- [Install in Telegram Desktop](https://t.me/addtheme/tinava)
 
 ## Screenshots
 
