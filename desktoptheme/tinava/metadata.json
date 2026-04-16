@@ -1,0 +1,19 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "iam@helltar.com",
+        "Name": "Helltar"
+      }
+    ],
+    "Category": "",
+    "Description": "Tinava Plasma Style",
+    "EnabledByDefault": true,
+    "Id": "tinava",
+    "License": "GPL-3.0-or-later",
+    "Name": "Tinava",
+    "Version": "1.0.0",
+    "Website": "https://github.com/Helltar/plasma-tinava"
+  },
+  "X-Plasma-API": "5.0"
+}
