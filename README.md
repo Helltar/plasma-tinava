@@ -27,8 +27,8 @@ After installation, select each item manually in KDE:
 ## Screenshots
 
 <p align="center">
-  <a href="https://helltar.com/projects/plasma-tinava/screenshots/screenshot_20260416_144815.png">
-    <img src="https://helltar.com/projects/plasma-tinava/screenshots/screenshot_20260416_144815.png" alt="screenshot_20260416_144815"/>
+  <a href="https://helltar.com/projects/plasma-tinava/screenshots/screenshot_20260417_164127.png">
+    <img src="https://helltar.com/projects/plasma-tinava/screenshots/screenshot_20260417_164127.png" alt="screenshot"/>
   </a>
 </p>
 
