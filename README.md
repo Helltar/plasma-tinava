@@ -16,8 +16,6 @@ cd plasma-tinava && \
 ./install.sh
 ```
 
-- `--force` replaces existing Tinava files.
-
 ### Apply in KDE
 
 After installation, select each item manually in KDE:
