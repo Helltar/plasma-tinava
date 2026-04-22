@@ -1,11 +1,11 @@
 # Tinava
 
-Tinava is a KDE Plasma theme built around a dark aesthetic.
+Tinava is a KDE Plasma theme with a dark Plasma Style and matching dark and light color schemes.
 
 ## What's Included
 
 - Plasma Style: `desktoptheme/tinava/`
-- KDE color scheme: `color-schemes/Tinava.colors`
+- KDE color schemes: `color-schemes/`
 - Konsole color scheme: `konsole/Tinava.colorscheme`
 
 ## Installation
@@ -21,7 +21,7 @@ Tinava is a KDE Plasma theme built around a dark aesthetic.
 After installation, select each item manually in KDE:
 
 1. Plasma Style: `System Settings -> Colors & Themes -> Plasma Style -> Tinava`
-2. Colors: `System Settings -> Colors & Themes -> Colors -> Tinava`
+2. Colors: `System Settings -> Colors & Themes -> Colors -> Tinava` or `Tinava Light`
 3. Konsole: `Settings -> Edit Current Profile -> Appearance -> Tinava`
 
 ## Screenshots

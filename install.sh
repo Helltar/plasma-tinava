@@ -121,6 +121,7 @@ done
 
 install_item "desktoptheme/tinava" "plasma/desktoptheme/tinava"
 install_item "color-schemes/Tinava.colors" "color-schemes/Tinava.colors"
+install_item "color-schemes/TinavaLight.colors" "color-schemes/TinavaLight.colors"
 install_item "konsole/Tinava.colorscheme" "konsole/Tinava.colorscheme"
 log
 info "Tinava installation complete"
@@ -128,5 +129,5 @@ log "${C_DIM}Data dir:${C_RESET} $DATA_HOME"
 log
 info "Apply manually in:"
 log "  ${C_CYAN}Plasma Style:${C_RESET} System Settings -> Colors & Themes -> Plasma Style"
-log "  ${C_CYAN}Colors:${C_RESET} System Settings -> Colors & Themes -> Colors"
+log "  ${C_CYAN}Colors:${C_RESET} System Settings -> Colors & Themes -> Colors (Tinava or Tinava Light)"
 log "  ${C_CYAN}Konsole:${C_RESET} Settings -> Edit Current Profile -> Appearance"
