@@ -11,6 +11,8 @@ Tinava is a KDE Plasma theme with a dark Plasma Style and matching dark and ligh
 ## Installation
 
 ```bash
+git clone https://github.com/Helltar/plasma-tinava.git && \
+cd plasma-tinava && \
 ./install.sh
 ```
 
