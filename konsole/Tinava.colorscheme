@@ -17,13 +17,13 @@ Color=49,54,59
 Color=127,140,141
 
 [Color1]
-Color=255,255,0
+Color=237,21,21
 
 [Color1Faint]
-Color=255,85,255
+Color=120,50,40
 
 [Color1Intense]
-Color=255,0,0
+Color=192,57,43
 
 [Color2]
 Color=17,209,22
