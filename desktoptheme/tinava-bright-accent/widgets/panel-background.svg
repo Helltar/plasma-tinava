@@ -215,7 +215,7 @@
        hide_knots="false" />
   </defs>
   <rect
-     style="color:#eff0f1;fill:#111216;fill-opacity:1;stroke:none;stop-color:#eff0f1"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
      id="thick-center"
      width="32"
      height="32"
@@ -265,7 +265,7 @@
     <rect
        id="rect4148"
        height="6"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        width="32"
        x="0"
@@ -289,7 +289,7 @@
     <rect
        id="rect4144"
        height="32"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        width="6"
        x="0"
@@ -313,7 +313,7 @@
     <rect
        id="rect4138"
        height="32"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        width="32"
        x="0"
@@ -325,7 +325,7 @@
     <rect
        id="rect4140"
        height="32"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        width="6"
        x="0"
@@ -350,7 +350,7 @@
      transform="translate(0,10)">
     <path
        d="M 0,6 H 6 V 0 C 2,0 0,2 0,6 Z"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        id="path3115"
        sodipodi:nodetypes="cccc" />
@@ -378,7 +378,7 @@
     <rect
        id="rect4152"
        height="6"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        width="32"
        x="0"
@@ -401,7 +401,7 @@
      transform="translate(38,10)">
     <path
        d="M 0,0 V 6 H 6 C 6,2 4,0 0,0 Z"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        id="path3118"
        sodipodi:nodetypes="cccc" />
@@ -429,7 +429,7 @@
      transform="translate(0,48)">
     <path
        d="M 6,6 V 0 H 0 c 0,4 2,6 6,6 z"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        id="path3124"
        sodipodi:nodetypes="cccc" />
@@ -457,7 +457,7 @@
      transform="translate(38,48)">
     <path
        d="M 0,6 V 0 H 6 C 6,4 4,6 0,6 Z"
-       style="opacity:1;fill:#252525;fill-opacity:0.60000002"
+       style="opacity:1;fill:currentColor;fill-opacity:0.60000002"
        class="ColorScheme-Background"
        id="path3121"
        sodipodi:nodetypes="cccc" />
